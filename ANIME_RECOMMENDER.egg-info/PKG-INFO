@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ANIME-RECOMMENDER
+Version: 0.1
+Author: Shikhar
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langchain_groq
+Requires-Dist: chromadb
+Requires-Dist: streamlit
+Requires-Dist: pandas
+Requires-Dist: python-dotenv
+Requires-Dist: sentence-transformers
+Requires-Dist: langchain_huggingface
+Dynamic: author
+Dynamic: requires-dist
