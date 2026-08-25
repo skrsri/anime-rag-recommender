@@ -14,7 +14,7 @@
 [![Grafana](https://img.shields.io/badge/Grafana_Cloud-Monitored-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo]([#](https://anime-rag-recommender-skrsri.streamlit.app/)) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 
